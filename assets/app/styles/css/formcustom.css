@@ -1,0 +1,37 @@
+.error, .not-unique{
+
+    visibility: hidden;
+
+    color: red;
+
+    position: relative;
+
+    top: 0;
+
+    left: 0;
+
+    font-size: 13px;
+
+    width:100%;
+
+}
+
+.visibleError{
+
+    visibility: visible;
+
+}
+
+.group7{
+
+    border: 2px solid transparent !important;
+
+
+
+}
+
+.redBorder{
+
+    border: 2px solid red !important;
+
+}

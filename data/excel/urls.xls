@@ -1,0 +1,10 @@
+1	http://localhost/public_html	3
+2	http://localhost/public_html/?page=store	2
+3	http://localhost/public_html/?page=contact	1
+4	http://localhost/public_html/?page=about	0
+5	http://localhost/public_html/?page=activation	0
+6	http://localhost/public_html/?page=login	0
+7	http://localhost/public_html/?page=profile	0
+8	http://localhost/public_html/?page=register	0
+9	http://localhost/public_html/?page=single	0
+10	http://localhost/public_html/?page=unauthorized	0
